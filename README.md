@@ -1,7 +1,7 @@
 # Clavier-Keyboard
 The first custom keyboard PCB I've designed. Inspired by Cyberpunk media and Cyberdecks, it's a rough looking keyboard, but designed to be so. I don't recommended to build, but will be posted as inspiration.
 
-Name was picked through the help of the Cyberdeck Discord. Clavier meaning... Keyboard... in French...
+Name was picked through the help of the [Cyberdeck Discord.](https://cyberdeck.cafe/) Clavier meaning... Keyboard... in French...
 
 ## Support Me!
 [See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
