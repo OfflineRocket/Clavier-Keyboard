@@ -1,5 +1,21 @@
 # Photos
 For your viewing convenience:
+
+![Photo13](20200819_165813.jpg)
+![Photo14](20200819_165850.jpg)
+![Photo15](20200819_165929.jpg)
+
+![Photo16](20200819_170133.jpg)
+![Photo17](20200819_170203.jpg)
+![Photo18](20200819_170232.jpg)
+![Photo19](20200819_170426.jpg)
+![Photo20](20200821_172536.jpg)
+
+### Attached to the [Wii Sleeper](https://github.com/LegoRocket/Wii-Sleeper)
+![Photo12](20200816_163720.jpg)
+
+### Assembling the Clavier
+Here you can see the assembly and design process
 ![Photo1](20200325_150106.jpg)
 ![Photo2](20200326_155922.jpg)
 ![Photo3](20200327_214519.jpg)
@@ -13,13 +29,3 @@ For your viewing convenience:
 ![Photo10](20200608_200801.jpg)
 
 ![Photo11](20200716_214828.jpg)
-![Photo12](20200816_163720.jpg)
-![Photo13](20200819_165813.jpg)
-![Photo14](20200819_165850.jpg)
-![Photo15](20200819_165929.jpg)
-
-![Photo16](20200819_170133.jpg)
-![Photo17](20200819_170203.jpg)
-![Photo18](20200819_170232.jpg)
-![Photo19](20200819_170426.jpg)
-![Photo20](20200821_172536.jpg)
