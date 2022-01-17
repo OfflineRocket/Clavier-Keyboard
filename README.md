@@ -26,7 +26,11 @@ The keyboard was designed to be a layout that I wanted. The 60% size appeals to 
 
 This layout has evolved into my second custom PCB keyboard, The Sanctuary. This keyboard has not been posted yet (stay tuned 👍).
 
-Since this was my first PCB, there's a lot of errors in it. Corners are sharp, routing is inefficient, and breakaway was designed poorly. Files will be provided, however this is more of an Archive, you need a dremel to cut to proper size, which you shouldn't do because **fibreglass dust can get in your lungs**.
+Since this was my first PCB, there's a lot of errors in it. Corners are sharp, routing is inefficient, and breakaway was designed poorly. 
+#### Files will be provided, however this is more of an Archive, you need a dremel to cut to proper size, which you shouldn't do because ***fibreglass dust can get in your lungs***.
+
+PCB Layout:
+![Photo28](PCB.png)
 
 ## Gallery
 Some photos of the Clavier board. View more under the [Photos tab](https://github.com/LegoRocket/Clavier-Keyboard/tree/main/Photos)
