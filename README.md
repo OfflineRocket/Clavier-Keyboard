@@ -4,7 +4,7 @@ The first custom keyboard PCB I've designed. Inspired by Cyberpunk media and Cyb
 Name was picked through the help of the [Cyberdeck Discord.](https://cyberdeck.cafe/) Clavier meaning... Keyboard... in French...
 
 ## Support Me!
-[See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
+### [See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
 
 ![Photo19](Photos/20200819_170426.jpg)
 
@@ -43,3 +43,14 @@ Some photos of the Clavier board. View more under the [Photos tab](https://githu
 ![Photo24](Photos/IMG_9810.JPG)
 ![Photo25](Photos/IMG_9814.JPG)
 
+## License Information:
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
