@@ -6,6 +6,8 @@ Name was picked through the help of the [Cyberdeck Discord.](https://cyberdeck.c
 ## Support Me!
 [See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
 
+![Photo19](Photos/20200819_170426.jpg)
+
 ## Features
 * Custom PCB Layout
 * Aluminum Chassis
@@ -26,4 +28,9 @@ This layout has evolved into my second custom PCB keyboard, The Sanctuary. This 
 Since this was my first PCB, there's a lot of errors in it. Corners are sharp, routing is inefficient, and breakaway was designed poorly. Files will be provided, however this is more of an Archive, you need a dremel to cut to proper size, which you shouldn't do because **fibreglass dust can get in your lungs**.
 
 ## Gallery
-Some photos of the Clavier board. (added later)
+Some photos of the Clavier board. View more under the [Photos tab](https://github.com/LegoRocket/Clavier-Keyboard/tree/main/Photos)
+![Photo13](Photos/20200819_165813.jpg)
+![Photo14](Photos/20200819_165850.jpg)
+![Photo16](Photos/20200819_170133.jpg)
+![Photo18](Photos/20200819_170232.jpg)
+
