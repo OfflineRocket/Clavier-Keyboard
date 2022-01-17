@@ -18,6 +18,7 @@ Name was picked through the help of the [Cyberdeck Discord.](https://cyberdeck.c
 * DB25 port - used for combining other ports into one
 * USB 3.0 Hub (USB 2.0 Speeds through USB C)
 
+![PhotoLayout](keyboard-layout(1).jpg)
 ## Hardware
 Pretty much your bog standard custom mechanical keyboard, however some unique things were added to allow it to stand on it's own. PCB was designed in Eagle and manufactured by JLCPCB.
 
