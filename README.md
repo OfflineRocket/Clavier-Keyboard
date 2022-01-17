@@ -4,6 +4,9 @@ The first custom keyboard PCB I've designed. Inspired by Cyberpunk media and Cyb
 
 Name was picked through the help of the Cyberdeck Discord. Clavier meaning... Keyboard... in French...
 
+## Support Me
+![See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
+
 ## Features
 * Custom PCB Layout
 * Aluminum Chassis
