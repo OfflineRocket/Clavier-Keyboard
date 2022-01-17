@@ -30,7 +30,7 @@ Since this was my first PCB, there's a lot of errors in it. Corners are sharp, r
 #### Files will be provided, however this is more of an Archive, you need a dremel to cut to proper size, which you shouldn't do because ***fibreglass dust can get in your lungs***.
 
 PCB Layout:
-![Photo28](PCB.png)
+![Photo28](Photos/PCB.png)
 
 ## Gallery
 Some photos of the Clavier board. View more under the [Photos tab](https://github.com/LegoRocket/Clavier-Keyboard/tree/main/Photos)
