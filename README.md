@@ -35,3 +35,7 @@ Some photos of the Clavier board. View more under the [Photos tab](https://githu
 ![Photo16](Photos/20200819_170133.jpg)
 ![Photo18](Photos/20200819_170232.jpg)
 
+![Photo21](Photos/IMG_9798.JPG)
+![Photo24](Photos/IMG_9810.JPG)
+![Photo25](Photos/IMG_9814.JPG)
+
