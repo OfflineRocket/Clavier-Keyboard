@@ -1,4 +1,4 @@
-# Clavier-Keyboard    [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+# Clavier-Keyboard                      [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 The first custom keyboard PCB I've designed. Inspired by Cyberpunk media and Cyberdecks, it's a rough looking keyboard, but designed to be so. I don't recommended to build, but will be posted as inspiration.
 
 Name was picked through the help of the [Cyberdeck Discord.](https://cyberdeck.cafe/) Clavier meaning... Keyboard... in French...
@@ -17,6 +17,7 @@ Name was picked through the help of the [Cyberdeck Discord.](https://cyberdeck.c
 * Audio passthrough
 * DB25 port - used for combining other ports into one
 * USB 3.0 Hub (USB 2.0 Speeds through USB C)
+* PC Power/Reset Control (DB25)
 
 ![PhotoLayout](Photos/keyboard-layout(1).jpg)
 
