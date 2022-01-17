@@ -3,13 +3,16 @@ For your viewing convenience:
 
 ![Photo13](20200819_165813.jpg)
 ![Photo14](20200819_165850.jpg)
-![Photo15](20200819_165929.jpg)
 
 ![Photo16](20200819_170133.jpg)
+
+![Photo15](20200819_165929.jpg)
+
 ![Photo17](20200819_170203.jpg)
-![Photo18](20200819_170232.jpg)
 ![Photo19](20200819_170426.jpg)
 ![Photo20](20200821_172536.jpg)
+![Photo18](20200819_170232.jpg)
+
 
 ### Attached to the [Wii Sleeper](https://github.com/LegoRocket/Wii-Sleeper)
 ![Photo12](20200816_163720.jpg)
