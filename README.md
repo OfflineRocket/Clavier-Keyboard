@@ -37,6 +37,9 @@ It is the first PCB and true keyboard I ever designed. It has provided a lot of 
 PCB Layout:
 ![Photo28](Photos/PCB.png)
 
+## [Teardown Video](https://youtu.be/Yc9MBV3eU0o)
+[![TheSanctuaryDemoVideo](https://img.youtube.com/vi/Yc9MBV3eU0o/0.jpg)](https://youtu.be/Yc9MBV3eU0o)
+
 ## Gallery
 Some photos of the Clavier board. View more under the [Photos tab](https://github.com/LegoRocket/Clavier-Keyboard/tree/main/Photos)
 ![Photo13](Photos/20200819_165813.jpg)
